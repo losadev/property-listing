@@ -1,0 +1,12 @@
+#superhost {
+  display: flex;
+  align-items: center;
+  background-color: #20293A;
+  color: #F2F9FE;
+  font-size: .8rem;
+  margin: 10px;
+  border-radius: 17px;
+  padding: 2px 15px;
+  position: absolute;
+  gap: 3px;
+}
