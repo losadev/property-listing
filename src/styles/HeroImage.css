@@ -1,0 +1,21 @@
+.container-hero-image {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 950px;
+  max-width: 100vw;
+  min-height: 500px;
+  height: 900px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('../assets/hero-image.jpg');
+  padding: 260px 240px;
+
+  & h1 {
+    font-size: 4.5rem;
+    max-width: 600px;
+  }
+  & p {
+    font-size: 2rem;
+  }
+}
