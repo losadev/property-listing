@@ -6,6 +6,7 @@
 body {
    font-family: "Be Vietnam Pro", serif;
    background-color: #121826;
+   display: flex;
 }
 .container-xl {
   display: flex;
